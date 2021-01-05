@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>806170502893-3vfdmmm35h1iltvt5084q5g5hg07mhkm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.806170502893-3vfdmmm35h1iltvt5084q5g5hg07mhkm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCNrnu_oR4rEelTbZ88n64TiExPfmUltZc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>806170502893</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.np.Chatty</string>
+	<key>PROJECT_ID</key>
+	<string>chatty-e3689</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatty-e3689.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:806170502893:ios:dbafa4edde4efe76e08ee4</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatty-e3689-default-rtdb.firebaseio.com/</string>
+</dict>
+</plist>
