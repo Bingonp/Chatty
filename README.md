@@ -27,5 +27,12 @@ When first approaching this challenge, I created a very brief layout of what I w
 Now, on Xcode, my storyboard looks like this. 
 <img width="837" alt="Screen Shot 2021-01-04 at 9 14 06 PM" src="https://user-images.githubusercontent.com/68652675/103598916-d2ff2500-4ed1-11eb-930a-2a3a3df8fa54.png">
 
+Documentation/How To Use/Tips:
 
+1. When app is first opened, choose to either register or login. Enter required paramenters and click sign up or login.
+2. Create another account to test chatting.
+3. Click 'new conversation' icon to create a conversation. Type in first few letters of other user's name. Click enter and click on user's name. 
+4. Type in a message and click send. (If message doesn't appear on screen, scroll up)
+5. Click Back to view conversation. 
+6. Click "Log Out" button to Log Out!
 
