@@ -7,10 +7,8 @@
 
 import UIKit
 import Firebase
-<<<<<<< HEAD
 import IQKeyboardManagerSwift
-=======
->>>>>>> 65d3cd2b16687c58a6e07dc266e6f2c874420012
+
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -19,11 +17,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         FirebaseApp.configure()
-<<<<<<< HEAD
+
         
         IQKeyboardManager.shared.enable = true
-=======
->>>>>>> 65d3cd2b16687c58a6e07dc266e6f2c874420012
+
+
         return true
     }
 

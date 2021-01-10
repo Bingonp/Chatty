@@ -3,20 +3,14 @@
 	archiveVersion = 1;
 	classes = {
 	};
-<<<<<<< HEAD
+
 	objectVersion = 52;
-=======
-	objectVersion = 51;
->>>>>>> 65d3cd2b16687c58a6e07dc266e6f2c874420012
 	objects = {
 
 /* Begin PBXBuildFile section */
 		143DB4A72956FB9B78542044 /* Pods_Chatty.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4880EF8C419A640D4DDA666A /* Pods_Chatty.framework */; };
 		7824988CBD42F5E60B8D31F6 /* Pods_ChattyTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1CBBA8CF2A2956854E6CB6FA /* Pods_ChattyTests.framework */; };
-<<<<<<< HEAD
 		9119EF2425AB9DC100AE1F69 /* IQKeyboardManagerSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 9119EF2325AB9DC100AE1F69 /* IQKeyboardManagerSwift */; };
-=======
->>>>>>> 65d3cd2b16687c58a6e07dc266e6f2c874420012
 		91A4FB68259E923F009F8114 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A4FB67259E923F009F8114 /* AppDelegate.swift */; };
 		91A4FB6A259E923F009F8114 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A4FB69259E923F009F8114 /* SceneDelegate.swift */; };
 		91A4FB6C259E923F009F8114 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91A4FB6B259E923F009F8114 /* ViewController.swift */; };
@@ -107,10 +101,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				143DB4A72956FB9B78542044 /* Pods_Chatty.framework in Frameworks */,
-<<<<<<< HEAD
 				9119EF2425AB9DC100AE1F69 /* IQKeyboardManagerSwift in Frameworks */,
-=======
->>>>>>> 65d3cd2b16687c58a6e07dc266e6f2c874420012
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -243,12 +234,9 @@
 			dependencies = (
 			);
 			name = Chatty;
-<<<<<<< HEAD
 			packageProductDependencies = (
 				9119EF2325AB9DC100AE1F69 /* IQKeyboardManagerSwift */,
 			);
-=======
->>>>>>> 65d3cd2b16687c58a6e07dc266e6f2c874420012
 			productName = Chatty;
 			productReference = 91A4FB64259E923F009F8114 /* Chatty.app */;
 			productType = "com.apple.product-type.application";
@@ -323,12 +311,9 @@
 				Base,
 			);
 			mainGroup = 91A4FB5B259E923F009F8114;
-<<<<<<< HEAD
 			packageReferences = (
 				9119EF2225AB9DC100AE1F69 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */,
 			);
-=======
->>>>>>> 65d3cd2b16687c58a6e07dc266e6f2c874420012
 			productRefGroup = 91A4FB65259E923F009F8114 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -825,8 +810,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-<<<<<<< HEAD
-
 /* Begin XCRemoteSwiftPackageReference section */
 		9119EF2225AB9DC100AE1F69 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */ = {
 			isa = XCRemoteSwiftPackageReference;
@@ -845,8 +828,6 @@
 			productName = IQKeyboardManagerSwift;
 		};
 /* End XCSwiftPackageProductDependency section */
-=======
->>>>>>> 65d3cd2b16687c58a6e07dc266e6f2c874420012
 	};
 	rootObject = 91A4FB5C259E923F009F8114 /* Project object */;
 }
