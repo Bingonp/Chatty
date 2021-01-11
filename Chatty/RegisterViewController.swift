@@ -52,11 +52,9 @@ final class RegisterViewController: UIViewController {
 
                 FirebaseAuth.Auth.auth().createUser(withEmail: email, password: password, completion: { authResult, error in
                     guard authResult != nil, error == nil else {
-<<<<<<< HEAD
+
                         print("Error cureating user \(error)" )
-=======
-                        print("Error cureating user")
->>>>>>> 65d3cd2b16687c58a6e07dc266e6f2c874420012
+
                         return
                     }
 
